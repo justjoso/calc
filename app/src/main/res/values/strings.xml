@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">hello world</string>
+    <string name="click_me_maan">Click Me maan</string>
+    <string name="mvshv_apps">Mvshv Apps....</string>
 </resources>
